@@ -1,0 +1,22 @@
+{
+  "name": "JsJourneyToCqrsEs",
+  "description": "",
+  "main": "",
+  "authors": [
+    "jeangougou@gmail.com <jeangougou@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jeangougou/JsJourneyToCqrsEs",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/components/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.6"
+  }
+}
