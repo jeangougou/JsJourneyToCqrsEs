@@ -4,7 +4,7 @@
     "start": "node server"
   },
   "dependencies": {
-    "ejs": "2.4.2",
+    "ejs": "2.5.5",
     "express": "4.13.4",
     "mongoose": "4.4.20",
     "todomvc-app-css": "^1.0.1",
