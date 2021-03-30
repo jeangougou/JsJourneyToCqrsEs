@@ -6,7 +6,7 @@
   "dependencies": {
     "ejs": "2.5.5",
     "express": "4.13.4",
-    "mongoose": "4.4.20",
+    "mongoose": ">=5.7.5",
     "todomvc-app-css": "^1.0.1",
     "todomvc-common": "^1.0.1"
   }
